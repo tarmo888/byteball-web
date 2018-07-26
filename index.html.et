@@ -100,19 +100,20 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Hiina" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Taani" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Hollandi" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Eesti" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Saksa" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Jaapani" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.el" class="language"><img src="static/images/flags/greece.png" alt="Kreeka" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Hispaania" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Eesti" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Prantsuse" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indoneesia" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Itaalia" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Jaapani" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korea" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Hollandi" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Poola" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Vene" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"><img src="static/images/flags/china.png" alt="Hiina" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -142,9 +143,6 @@
 					</p>
 					<p class="desktop">
 						Kõigepealt <a href="#download">lae alla ja installeeri Byteball rahakott</a>, siis klõpsa allolevat nuppu, et avada rakendus oma seadmel ja võta vahendid omaks.
-					</p>
-					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Kahjuks ei ole Byteball rakendus saadaval saadaval iOS platvormil. Proovi kasutada mõnda teist seadet, et võtta vahendid omaks.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Võta vahendid vastu</button></p>
 					<p>
@@ -764,7 +762,7 @@
 
 					<ul class="footer-menu-list app-icons h-list footer-social-new-ul m-b-50">
 						<li class="list-item">
-							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8" target="_blank">
+							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&amp;mt=8" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
 								iOS
 							</a>
@@ -947,7 +945,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Turundus ja strateegia arendusjuht</p>
+							<p class="box-author-job source-sans-pro-regular">Strateegia juht</p>
 						</div>
 					</div>
 				</li>
@@ -1186,6 +1184,76 @@
 						</ul>
 						<div class="clearfloat"></div>
 
+	<!-- Pricing Tables start-->
+	<section class="section section-price-table" id="community">
+		<div class="container">
+			<hr class="new-breaker-line">
+			<div class="row justify-content-md-center">
+				<div class="col-md-12">
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Kogukond ja Kasutajatugi</h1>
+					<div class="section-heading--center m-t-0 m-b-40">
+						<ul class="footer-menu-list h-list footer-social-new-ul">
+							<li class="list-item community-item">
+								<a href="https://slack.byteball.org/" target="_blank">
+									<img data-img="slack_img" src="static/images/slack_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://medium.com/byteball" target="_blank">
+									<img data-img="medium_img" src="static/images/medium_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank">
+									<img data-img="bitcoin_talk_img" src="static/images/bitcoin_talk_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://t.me/byteball" target="_blank">
+									<img data-img="telegram_img" src="static/images/telegram_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
+									<img data-img="we_chat_img" src="static/images/we_chat_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://www.reddit.com/r/ByteBall/" target="_blank">
+									<img data-img="reddit_img" src="static/images/reddit_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://twitter.com/ByteballOrg" target="_blank">
+									<img data-img="twitter_img" src="static/images/twitter_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://www.facebook.com/byteball.org" target="_blank">
+									<img data-img="facebook_img" src="static/images/facebook_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
+									<img data-img="youtube_img" src="static/images/youtube_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+						</ul>
+						<div class="clearfloat"></div>
+
+					</div>
+
+					<div class="com-sup-block slack_img">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Meie kõige aktiivsem kogukond on Slackis, palun liitu meiega seal.</h2>
+					</div>
+					<div class="com-sup-block medium_img" style="display:none;">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Me postitame uudiseid Mediumi.</h2>
+					</div>
+					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Bitcointalk arutelu on aktiivne ja peaagu tuhande postituse pikkune.</h2>
+					</div>
+					<div class="com-sup-block telegram_img" style="display:none;">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Meie Telegrammi kanal on ka populaarne.</h2>
 					</div>
 
 					<div class="com-sup-block slack_img">
@@ -1515,6 +1583,14 @@
 				$("#learn_more .learn-more-block."+ $(this).data("img")).show();
 			});
 
+			$("a").on('click', function(){
+				var href = $(this).attr('href');
+				var text = $(this).text().trim();
+				var is_download_link = $(this).parent().parent().hasClass("app-icons");
+				var goal = (is_download_link && href !== 'https://github.com/byteball/byteball') ? 1 : 0;
+				console.log('click', href, text, goal);
+				ga('send', 'event', 'click', href, text, goal);
+			});
 		})
 	</script>
 
@@ -1578,12 +1654,8 @@
 					// in which case the redirect dialog will wait for the currently shown dialog to be dismissed.
 					
 					gotStoreURI && timers.push(window.setTimeout(function() {
-						if (!isIOS()) {
-							storeLaunched = true;
-							window.top.location = storeURI;
-						} else {
-							document.getElementById('warning').style.display = 'block';
-						}
+						storeLaunched = true;
+						window.top.location = storeURI;
 					}, 1000));
 					isIOS() && timers.push(window.setTimeout(function() {
 						storeLaunched && window.location.reload()
@@ -1596,7 +1668,7 @@
 				getStoreURI: function() {
 					return isAndroid() ?
 						"market://details?id=org.byteball.wallet&referrer=" + textcoin :
-						"https://github.com/byteball/byteball/releases";
+						"https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8";
 				},
 				// Try to launch the native app on iOS/Android. Redirect to the app store if launch fails.
 				init: function() {

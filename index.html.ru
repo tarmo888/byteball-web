@@ -100,19 +100,20 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="German" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.el" class="language"><img src="static/images/flags/greece.png" alt="Greek" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Spanish" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="немецкий" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="японский" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="испанский" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="французский" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="French" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="итальянский" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Italian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Japanese" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polish" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="русский" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"><img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -144,12 +145,9 @@
 						<a href="#download">Скачайте и установите кошелёк Byteball</a>, затем нажмите кнопку ниже, чтобы открыть кошелёк и получить ваши деньги.
 
 					</p>
-					<p id="warning" class="alert alert-danger m10" style="display: none">
-							К сожалению, кошелёк Byteball пока недоступен для установки через официальный магазин приложений на платформе iOS. Используйте кошелёк на других платформах или скомпилируйте кошелёк для iOS самостоятельно.
-					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Получить деньги</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
 					<p>
-						Если кнопка не работает, <a href="#download">установите кошелёк Byteball</a>, и на вкладке <i>Получить</i> 	&rarr; <i>введите в поле Получить через textcoin</i> следующую строку:<br>
+						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -180,11 +178,11 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
+					<span class="btn-text">ПОДПИСАТЬСЯ НА РАССЫЛКУ</span>
 				</a>
 
 				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
+					<span class="btn-text">СКАЧАТЬ КОШЕЛЕК</span>
 				</a>
 			</div>
 
@@ -204,7 +202,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Github</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">GitHub</a>
 					</li>
 				</ul>
 			</div>
@@ -313,7 +311,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball позволяет вам делать то, что не могут традиционные валюты: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball позволяет вам делать нечто, чего не могут традиционные валюты: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank" style="text-decoration: underline; color: #4285f4">платежи с условиями</a></span>
 							</div>
 						</li>
@@ -342,13 +340,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Оградите себя от негативных событий.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Покупайте страховку у других участников, чтобы получить оплату при наступлении негативного события. Продавайте страховку, чтобы получить прибыль. <br><br>Страховка это просто <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">обычный смарт-контракт</a>, который может быть разблокирован застрахованным лицом &mdash; в случае наступления оговоренного события, или страховщиком &mdash; в противном случае.<br><br>Чтобы застраховаться от задержки рейса, найдите контрагента на канале <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">p2p_insurance</a> нашего <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, создайте контракт, и если ваш рейс задерживается, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">свяжитесь в чате с Оракулом задержки рейсов</a>, чтобы он опубликовал данные о задержке, затем разблокируйте контракт.</span>
 							</div>
 						</li>
 					</ul>
@@ -376,13 +374,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Make money by correctly predicting future events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Зарабатывайте деньги, правильно предсказывая будущие события.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Создайте P2P смарт-контракт, который может быть разблокирован при наступлении определенного события. Используйте его, чтобы <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">делать ставки на движения цен</a>, ставки на спорт или для страхования. <br><br>Найдите партнера по контракту на канале <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> в нашем <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -404,14 +402,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bet against other users on sports events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Делайте ставки против других пользователей на спортивные события.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Найдите себе партнера по контракту на канале <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> нашего <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> и создайте контракт, который может быть разблокирован вами или вашим партнером, в зависимости от результатов будущего матча.<br><br>После того, как результат станет известен, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">свяжитесь в чате со спортивным оракулом</a>, чтобы он опубликовал данные о результатах матча, затем разблокируйте контракт.</span>
 							</div>
 						</li>
 					</ul>
@@ -439,13 +436,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Отправляйте криптовалюту на e-mail или через чат.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. Получатель кликнет по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его. Для ОС Android будет автоматически открыт магазин Google Play для установки кошелька. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Отправитель просто пишет e-mail адрес там, где он обычно указывает адрес кошелька Byteball. Получатель просто кликает по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его. На Android загрузка начинается автоматически. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Узнать больше</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -467,13 +464,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Храните удостоверение личности в своем кошельке, выбирайте, что раскрывать и кому.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. Для подтверждения реальной личности используется сервис <a href="https://www.jumio.com/" target="_blank">Jumio</a>. Когда вам нужно подтвердить свою личность для какого-то сервиса, например, для участия в ICO, вы можете сделать это прямо в кошельке за пару кликов. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Получите подтверждение своей реальной личности, надежно сохраненное в вашем кошельке. <a href="https://www.jumio.com/" target="_blank">Jumio</a> помогает с подтверждением личности. Когда вы захотите раскрыть свою личность для какого-то сервиса, например, для участия в ICO, вы просто вытаскиваете его из своего кошелька в несколько кликов. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Узнать больше</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -496,18 +493,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P платежи между пользователями в чате</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P платежи в чате</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Общайтесь и платите в одном и том же приложении, просто кликая по ссылкам.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Не нужно копировать и вставлять длинные крипто адреса. <br><br>Просто нажимаете, чтобы вставить ваш адрес в чат, a плательщик нажимает на ваш адрес, чтобы отправить деньги.</span>
 							</div>
 						</li>
 					</ul>
@@ -529,13 +526,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Разговаривайте с ботом так, как говорили бы с человеком.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Совершайте покупки, общаясь с торговым ботом, оплачивайте в два клика. Обмен и другие услуги тоже можно легко использовать в разговорном интерфейсе.</span>
 							</div>
 						</li>
 					</ul>
@@ -558,18 +555,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Неотслеживаемая валюта: Черные байты (Blackbytes)</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Неотслеживаемая валюта: Блэкбайты (Blackbytes)</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Конфиденциальность, как при расчете наличными.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Если вы хотите полной анонимности, платите в Blackbytes, неотслеживаемой валюте подобной наличным, чьи транзакции не видны в публичной базе данных, вместо этого они отправляются методом P2P.<br><br>Используйте встроенный переключатель TOR прямо из кошелька, чтобы еще больше повысить вашу конфиденциальность.</span>
 							</div>
 						</li>
 					</ul>
@@ -591,13 +588,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Каждый обеспечивает транзакции других.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Здесь нет центрального органа, который хранит и обрабатывает все платежи. Вместо этого, созданные пользователями транзакции криптографически связаны друг с другом, и как только вы добавляете новую транзакцию, другие пользователи начинают добавлять свои поверх вашей, а количество других транзакций, которые ссылаются на вашу, растет как снежный ком (потому мы и называем его Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -618,7 +615,7 @@
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Core Features</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Основные возможности</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
@@ -757,7 +754,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Скачайте свой Byteball кошелёк</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -765,7 +762,7 @@
 
 					<ul class="footer-menu-list app-icons h-list footer-social-new-ul m-b-50">
 						<li class="list-item">
-							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8" target="_blank">
+							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&amp;mt=8" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
 								iOS
 							</a>
@@ -829,7 +826,7 @@
 	<section class="section section-team p-b-40" id="team">
 		<div class="container">
 			<hr class="new-breaker-line">
-			<h3 class="section-heading section-heading--center m-b-45">Meet The Team</h3>
+			<h3 class="section-heading section-heading--center m-b-45">Знакомьтесь с командой</h3>
 			<ul class="row list-reset">
 				<li class="col-lg-12 col-md-12 col-sm-12" style="margin: auto">
 					<div class="col-lg-3 col-md-6 col-sm-6 section-heading--center" style="margin: auto;">
@@ -850,7 +847,7 @@
 								<h5 class="box-title noto-sans-symbols-bold">
 									Tony Churyumoff
 								</h5>
-								<p class="box-author-job source-sans-pro-regular">Founder and Lead Developer</p>
+								<p class="box-author-job source-sans-pro-regular">Основатель и ведущий разработчик</p>
 							</div>
 						</div>
 					</div>
@@ -871,7 +868,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Mikhail Pustovalov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Разработчик</p>
 						</div>
 					</div>
 				</li>
@@ -890,7 +887,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Evgeniy Stulnikov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Разработчик</p>
 						</div>
 					</div>
 				</li>
@@ -909,7 +906,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Artem Nagorny
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Разработчик</p>
 						</div>
 					</div>
 				</li>
@@ -948,7 +945,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Marketing and Strategy Development</p>
+							<p class="box-author-job source-sans-pro-regular">Head of Strategy</p>
 						</div>
 					</div>
 				</li>
@@ -1136,6 +1133,63 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Сообщество и поддержка</h1>
+					<div class="section-heading--center m-t-0 m-b-40">
+						<ul class="footer-menu-list h-list footer-social-new-ul">
+							<li class="list-item community-item">
+								<a href="https://slack.byteball.org/" target="_blank">
+									<img data-img="slack_img" src="static/images/slack_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://medium.com/byteball" target="_blank">
+									<img data-img="medium_img" src="static/images/medium_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank">
+									<img data-img="bitcoin_talk_img" src="static/images/bitcoin_talk_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://t.me/byteball" target="_blank">
+									<img data-img="telegram_img" src="static/images/telegram_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
+									<img data-img="we_chat_img" src="static/images/we_chat_img.png"  style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://www.reddit.com/r/ByteBall/" target="_blank">
+									<img data-img="reddit_img" src="static/images/reddit_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://twitter.com/ByteballOrg" target="_blank">
+									<img data-img="twitter_img" src="static/images/twitter_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://www.facebook.com/byteball.org" target="_blank">
+									<img data-img="facebook_img" src="static/images/facebook_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+							<li class="list-item community-item">
+								<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
+									<img data-img="youtube_img" src="static/images/youtube_img.png" style="max-width: 100%;">
+								</a>
+							</li>
+						</ul>
+						<div class="clearfloat"></div>
+
+	<!-- Pricing Tables start-->
+	<section class="section section-price-table" id="community">
+		<div class="container">
+			<hr class="new-breaker-line">
+			<div class="row justify-content-md-center">
+				<div class="col-md-12">
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Community and Support</h1>
 					<div class="section-heading--center m-t-0 m-b-40">
 						<ul class="footer-menu-list h-list footer-social-new-ul">
@@ -1191,6 +1245,19 @@
 
 					<div class="com-sup-block slack_img">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+					</div>
+					<div class="com-sup-block medium_img" style="display:none;">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+					</div>
+					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+					</div>
+					<div class="com-sup-block telegram_img" style="display:none;">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+					</div>
+
+					<div class="com-sup-block slack_img">
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Наше наиболее активное сообщество находится на Slack, так что пожалуйста, присоединяйтесь.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
@@ -1516,6 +1583,14 @@
 				$("#learn_more .learn-more-block."+ $(this).data("img")).show();
 			});
 
+			$("a").on('click', function(){
+				var href = $(this).attr('href');
+				var text = $(this).text().trim();
+				var is_download_link = $(this).parent().parent().hasClass("app-icons");
+				var goal = (is_download_link && href !== 'https://github.com/byteball/byteball') ? 1 : 0;
+				console.log('click', href, text, goal);
+				ga('send', 'event', 'click', href, text, goal);
+			});
 		})
 	</script>
 
@@ -1579,12 +1654,8 @@
 					// in which case the redirect dialog will wait for the currently shown dialog to be dismissed.
 					
 					gotStoreURI && timers.push(window.setTimeout(function() {
-						if (!isIOS()) {
-							storeLaunched = true;
-							window.top.location = storeURI;
-						} else {
-							document.getElementById('warning').style.display = 'block';
-						}
+						storeLaunched = true;
+						window.top.location = storeURI;
 					}, 1000));
 					isIOS() && timers.push(window.setTimeout(function() {
 						storeLaunched && window.location.reload()
@@ -1597,7 +1668,7 @@
 				getStoreURI: function() {
 					return isAndroid() ?
 						"market://details?id=org.byteball.wallet&referrer=" + textcoin :
-						"https://github.com/byteball/byteball/releases";
+						"https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8";
 				},
 				// Try to launch the native app on iOS/Android. Redirect to the app store if launch fails.
 				init: function() {
