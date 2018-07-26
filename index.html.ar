@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; منصة لعملة مشفرة جاهزة للتبني في العالم الحقيقي">
+	<meta name="keywords" content="Byteball &mdash; منصة لعملة مشفرة جاهزة للتبني في العالم الحقيقي">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; منصة لعملة مشفرة جاهزة للتبني في العالم الحقيقي</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -67,22 +67,22 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#why">WHY</a>
+							<a class="nav-link" href="#why">لماذا</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">FEATURES</a>
+							<a class="nav-link noto-sans-bold" href="#features">المميزات</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">DISTRIBUTION</a>
+							<a class="nav-link noto-sans-bold" href="#dist">التوزيع</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">التكنولوجيا</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
+							<a class="nav-link noto-sans-bold" href="#team">الفريق</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">المجتمع</a>
 						</li>
 
 					</ul>
@@ -100,26 +100,27 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="German" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Japanese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Spanish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="French" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Italian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Russian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="الدانماركية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="الألمانية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.el" class="language"><img src="static/images/flags/greece.png" alt="اليونانية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="الإسبانية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="الإستونية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="الفرنسية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="الإندونيسية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="الإيطالية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="اليابانية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="الكورية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="الهولندية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="البولندية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="الروسية" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"><img src="static/images/flags/china.png" alt="الصينية" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
 						</li>
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									تحميل المحفظة                               
 								</span>
 							</a>
 						</li>
@@ -136,19 +137,16 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-					<h3 class="m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-b-30 open-sans-bold">هل تلقيت بعض المال!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						انقر على الزر أدناه لفتح أو تثبيت تطبيق Byteball على جهازك وأخذ مستحقاتك.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download"> ابدأ بتنزيل وتثبيت محفظة Byteball </a> ، ثم انقر على الزر أدناه لفتح التطبيق على جهازك والمطالبة بمستحقاتك.
 					</p>
-					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
-					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">إستلام الأموال</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						إذا لم يعمل الزر ، <a href="#download"> قم بتثبيت محفظة Byteball </a> ، وانتقل إلى <i> تلقي </i> &rarr؛ <i> تلقي دفعة عبر textcoin </i> وقم بلصق النص التالي:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -163,41 +161,41 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة لعملة مشفرة جاهزة لتبنيها في العالم الحقيقي</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> with unbreachable contracts<br>
-						<i class="far fa-check-square"></i> with user controlled identity<br>
-						<i class="far fa-check-square"></i> with payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> with easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> looking for wide adoption<br>
+						<i class="far fa-check-square"></i>  مع عقود غير قابلة للوصول <br>
+<i class="far fa-check-square"> </i> يمكنك التحكم بِهُويتك <br>
+<i class="far fa-check-square"> </i> يمكنك بسهولة إرسال الدفعات عبر أي شبكة <br>
+<i class="far fa-check-square"> </i> مع سهولة تطوير التطبيقات التي تربط كل ما سبق <br>
+<i class="far fa-check-square"> </i> مبنية على تقنية DAG القابلة للتطوير <br>
+<i class="far fa-check-square"> </i> تعمل بكامل طاقتها اليوم <br>
+<i class="far fa-square"> </i> بحثًا عن اعتماد واسع النطاق<br>
 					</p>
 				</div>
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
-				</a>
+<span class="btn-text"> اشترك في النشرة الإخبارية </span>
+</a>
 
-				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
-				</a>
+<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
+<span class="btn-text"> قم بتنزيل المحفظة </span>
+</a>
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				Learn more            
+				التعرف على المزيد            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
 				<ul class="footer-menu-list h-list learn-more-ul">
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">تقرير عن المشروع</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">أدلة تمهيدية</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">ويكي</a>
@@ -215,7 +213,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE BYTEBALL</h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">لماذا نستخدم BYTEBALL</h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -225,36 +223,36 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">ICO Platform</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">منصة ICO</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The only ICO platform on the market that offers the compliant sale of security tokens out of the box.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">منصة ICO الوحيدة في السوق التي تقدم بيع متوافق مع رموز الأمان من الصندوق.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell unregistered securities to accredited investors using built-in investor accreditation.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">بيع ضمانات غير مسجلة للمستثمرين المعتمدين باستخدام نظام اعتماد مستثمر داخلي. </span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Optionally require KYC using built-in real name verification.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">اختياريا يتطلب KYC (إعرف عميلك) عبر ميزة التحقق من الهوية المدمجة.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell for Bytes, BTC, ETH.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">بع من أجل Bytes, BTC, ETH.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Display stats in real time.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> عرض الإحصائيات في الوقت الفعلي. </span>
 							</div>
 						</li>
 					</ul>
@@ -271,20 +269,20 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Developer friendly</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">صديقة للمطورين</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Easily find new users for your apps</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">العثور بسهولة على مستخدمين جدد للتطبيقات الخاصة بك</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> للمطورين إمكانية الوصول الفوري إلى جميع مستخدمي منصة Byteball عبر متجر بوتات (Bot) مدمج في الحافظة. <br> <br>
+يمكنك أن ترى متجر بوتات يشبه متجر تطبيقات آبل أو مثل متجر Google Play باستثناء أنك لا تتنافس مع الآلاف من التطبيقات الأخرى... الآن! <1 > <br>
+كمكافأة ، فإنه من الأسهل بكثير أن تطور على Byteball أكثر من معظم منصات التشفير الأخرى.  راجع <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank"> أدلة المطور في github</ 0>. </ 1>
 							</div>
 						</li>
 					</ul>
@@ -312,14 +310,14 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> يسمح لك Byteball بفعل ما لا تستطيع العملات التقليدية القيام به: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4"> إجراء الدفعات الشرطية </a> </span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> يمكنك ضبط شرط عندما يستلم المستفيد المال. إذا لم يتم استيفاء الشرط ، يتم استرداد أموالك. </span>
 							</div>
 						</li>
 					</ul>
@@ -341,13 +339,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">التحوط ضد الأحداث السلبية.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> شراء التأمين من النظراء للحصول على أموال في حالة حدوث حدث سلبي. بيع التأمين من أجل الربح <br><br> التأمين هو مجرد <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank"> عقد ذكي بسيط </a> الذي يمكن فتحه من قبل المؤمن عليه &mdash; إذا حدث الحدث المعني ، أو من قبل المُؤِمِّنْ &mdash; غير ذلك. <br><br> وللتأمين ضد احتمال تأخر الرحلات، إبحث عن النضير الخاص بك في قناة <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> على منصة <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> أنشئ عقد، وإذا وصلت رحلتك في وقت متأخر، <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">تكلم مع وسيط الرحلات المتأخرة من خلال الدردشة </a>لجعله ينشر البيانات حول التأخير,، ثم يمكنك فتح العقد.</span>
 							</div>
 						</li>
 					</ul>
@@ -375,13 +373,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Make money by correctly predicting future events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> اكسب المال عن طريق التنبؤ بشكل صحيح بالأحداث القادمة. </span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> قم بإنشاء عقد ذكي P2P يمكن فتحه في حالة حدوث حدث معين. استخدمه لـ <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank"> المراهنة على تقلبات الأسعار </a> أو على الرياضة أو التأمين. <br> <br> إبحث عن نظيرك على قناة <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> في <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack </a>. </span>
 							</div>
 						</li>
 					</ul>
@@ -403,14 +401,14 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bet against other users on sports events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">راهن ضد المستخدمين الآخرين في المناسبات الرياضية-</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> اعثر على نظيرك في قناة <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> على <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> وأنشيء عقدًا يمكن أن يفتح من طرفك أو من طرف نظيرك بناءً على نتائج مباراة قادمة. <br> <br>
+بمجرد معرفة النتيجة ،<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">اتصل بـ وكيل الرياضات عبر الدردشة </a> لجعله ينشر البيانات حول النتيجة، بعدها يتم فتح العقد </span>
 							</div>
 						</li>
 					</ul>
@@ -433,18 +431,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Textcoins</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Textcoins(عملات نصية)</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> إرسال العملات المشفرة إلى البريد الإلكتروني أو عبر الدردشة. </span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> يقوم المرسل ببساطة بإدخال عنوان بريد إلكتروني حيث يقوم عادة بإدخال عنوان Byteball. ينقر المستلم فقط على رابط يلقاه في البريد الإلكتروني أو في الدردشة. إذا لم يكن المستلم موجودًا في Byteball بعد ، فستتم مطالبته بتثبيت المحفظة. على نظام التشغيل Android ، يتم بدء التثبيت تلقائيًا. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank"> اعرف المزيد</a>-</span>
 							</div>
 						</li>
 					</ul>
@@ -461,18 +459,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Sovereign identity</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">هوية متحكم بها</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> تخزين هويتك في محفظتك واختيار البيانات التي تريد مشاركتها ومع من. </span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> تحقق من هويتك الحقيقية وخزنها بأمان في محفظتك. يساعد<a href="https://www.jumio.com/" target="_blank"> Jumio </a>في التحقق من الهوية. عندما تريد الكشف عن هويتك لمقدم خدمة ، على سبيل المثال للمشاركة في ICO ، يمكنك الوصول إليها من خلال نقرات قليلة مباشرة في محفظتك. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank"> اعرف المزيد</a>-</span>
 							</div>
 						</li>
 					</ul>
@@ -495,18 +493,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P payments in chat</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">مدفوعات P2P في الدردشة</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">يمكنك الدردشة والدفع باستخدام التطبيق نفسه من خلال النقر على الروابط.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> لا تحتاج إلى نسخ / لصق عناوين طويلة <br><br> نقرة بسيطة كافية لإدخال عنوانك في الدردشة ، مما يسمح للمستلم بالنقر فوقه لتحويل الأموال. </span>
 							</div>
 						</li>
 					</ul>
@@ -523,18 +521,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Chatbots</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">روبوتات الدردشة</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> تحدث إلى بوت وكأنك تتحدث إلى شخص. </span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">قم بالتسوق عبر الدردشة مع بوت التجار ، وأدفع عبر نقرتين فقط. من السهل أيضًا استخدام التبادلات والخدمات الأخرى في الواجهة التفاعلية. </span>
 							</div>
 						</li>
 					</ul>
@@ -557,18 +555,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Untraceable currency: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">عملة لا يمكن تعقبها: Blackbytes</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> خصوصية النقود.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> عندما تريد خصوصية كاملة ، يمكنك إجراء الدفعات باستخدام BlackBytes ، وهي عملة لا يمكن تتبعها ، ومعاملاتها تتم من نظير إلى نظير وغير مرئية في قاعدة البيانات العامة. <br><br>استخدم نظام TOR المبني مباشرة داخل المحفظة لضمان الحفاظ على خصوصيتك.</span>
 							</div>
 						</li>
 					</ul>
@@ -585,18 +583,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Users help each other</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">المستخدمون يساعدون بعضهم البعض</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">المستخدمون يأمنون معاملات بعضهم البعض. </span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> لا يوجد كيان مركزي يخزن ويعالج جميع المدفوعات. بدلاً من ذلك ، يتم ربط المعاملات التي ينشئها المستخدمون مع بعضها البعض بشكل تشعبي ، وبمجرد إضافة معاملتك الجديدة ، يبدأ المستخدمون الآخرون بإضافة معاملاتهم فوق معاملتك ، ويزداد عدد المعاملات الأخرى التي ترتبط بمعاملتك مثل كرة الثلج (ولهذا السبب نسميها Byteball). </span>
 							</div>
 						</li>
 					</ul>
@@ -617,30 +615,30 @@
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Core Features</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">الميزات الأساسية</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC EXCHANGE</span>
+								<span class="iconbox-text">التبادل الذري</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">في حالة قيام طرفين بالتوقيع على عملية تحويل تقوم بتبادل العملات على كلا الجانبين ، فإن كلتا العمليتين يتم تنفيذهما في نفس الوقت أو لا لا يتم إجرائهما إطلاقا. لم يعد من الضروري الثقة في الأسواق المركزية.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">التوقيع المتعدد</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">للأمان ، يمكنك أن تطلب أن تكون أموالك قابلة للانفاق فقط عند تقديم عدة توقيعات ، على سبيل المثال. من الكمبيوتر المحمول ومن هاتفك. للتحكم المشترك في الأموال ، قد تكون هناك حاجة إلى تواقيع من أشخاص مختلفين.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">تخزين ثابت</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">متى تم تخزين البيانات في قاعدة بيانات Byteball ، فإنه لا يمكن مراجعة هذه البيانات أو حذفها.</p>
 						</li>
 					</ul>
 				</div>
@@ -651,23 +649,23 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">الأصول المنظمة</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">يمكن للمؤسسات المنضمة إصدار أصول متوافقة مع متطلبات KYC / AML. أي عملية نقل لهذا النوع من الأصول تكون موقعة من قبل المرسل، وإذا كان هناك أي شيء يتعارض مع القانونين السارية، فإن المرسل لن يوقع عملية النقل.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">وسطاء على السلسلة</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">عند التعامل مع أطراف مقابلة غير موثوقة ، يمكنك قفل الأموال على عنوان متاح لك أو للطرف المقابل ، اعتمادًا على الأحداث المسجلة في قاعدة البيانات من قبل مقدمي الخدمة الموثوق بهم &mdash; وسطاء.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">التسوية النهائية</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">بعد استيفاء معايير معينة، المعاملة الجديدة تصبح نهائية. ولا يمكن مراجعتها حتى من قبل مهاجم قوي. لا تخمين حول العدد الصحيح من التأكيدات ، ولا هجمات 51 ٪.</p>
 						</li>
 					</ul>
 				</div>
@@ -682,46 +680,49 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title"> توزيع أولي عادل </h1>
+<h4 class="m-b-30 section-heading--center distribution-title2"> توزيع مجاني بهدف التبني على نطاق واسع.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">الاعتماد الشامل يتطلب توزيعًا واسعًا ، ولهذا السبب سيتم توزيع 99٪ من جميع وحدات bytes و blackbytes مجانًا. حاليًا ، نستخدم عدة طرق لتوزيعها:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
-						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
-						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.                    </p>
+						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">استرداد النقود</a> إذا أجريت عمليات شراء على مواقع شركائنا. في معظم الحالات ، المبلغ المعروض والذي يمكن استرداده هو 10٪ من مبلغ الشراء.
+						<br> - <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> املأ طلب الشراكة الخاص بك </a> أو <script> document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">') ؛ </script> اتصل بنا <script> document.write ('</a> ')؛</script> إذا كان لديك متجر أو معالج دفع وتريد الاستفادة من برنامج استرداد النقود.
+						<br>- <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank"> مكافآت التحقق ومكافآت الإحالة  </a> لأولئك الذين يأكدون اسمهم الحقيقي.
+						<br> - <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank"> مكافآت التحقق ومكافآت الإحالة </a> لأولئك الذين يأكدون عناوين بريدهم الإلكتروني.
+						<br> - <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank"> مكافآت التحقق ومكافآت الإحالة </a> للمستثمرين المعتمدين الذين يأكدون اعتماداتهم.
+						<br> - مكافآت لمن يجتاز اختبار <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997"> في Telegram </a>.
+						<br>- مساعدات تعوض جزءًا من الرسوم المدفوعة عندما <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07"> تشتري عبر Visa او Mastercard</a>.
+						<br> - مكافآت لمن يتبرعون بمواردهم الحاسوبية لـ <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed"> شبكة المجتمع العالمي </a>.
+						<br> - توزيع الهبات على سبيل المثال عبر قنوات YouTube الخاصة بأنصارنا. على سبيل المثال <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>-<a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">إرسال كتلة لـ textcoins </a> للمشتركين شركائنا. راجع <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">نتائج الحملات السابقة</a>.                    </p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
 				<div class="col-md-12">
-					<h4 class="m-b-30 section-heading--center distribution-title2">Previous distributions</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2">التوزيعات السابقة</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						In the past, we also distributed Bytes to BTC holders and existing holders of Bytes. Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. This distribution was split into several rounds.
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In the subsequent rounds, the total distributed supply reached 64.5%:
+						في الماضي ، قمنا أيضًا بتوزيع Bytes على حاملي BTC وحاملي Bytes الحاليين. كان المستخدمون يربطون عناوين BTC و Byteball الخاصة بهم وكانوا يتلقون Bytes جديدة بما يتناسب مع أرصدتهم الحالية ب BTC و Bytes. تم تقسيم هذا التوزيع على عدة جولات.
+						<br><br> جرت الحملة الأولى في 25 ديسمبر. في عام 2016 عند إطلاق الشبكة مع أكثر من 70.000 BTC مرتبطة بالحملة ، تم توزيع 10٪ من إجمالي المبلغ من وحدات bytes و Blackbytes في ذلك الوقت. في الحملات التالية ، بلغ إجمالي التوزيع 64.5٪:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الثانية في 11 فبراير 2017: 121،763 BTC مرتبط، تم توزيع 1.8٪ ،;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الثالثة في 12 مارس 2017: 129،139 BTC مرتبط ، تم توزيع 2.0٪ ؛;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الرابعة في 11 أبريل 2017: 145،441 BTC مرتبط, تم توزيع 2.3٪;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الخامسة في 10 مايو 2017: 207،672 BTC مرتبط، تم توزيع 2.9%;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة السادسة في 9 يونيو 2017: 453،621 BTC مرتبط ، تم توزيع 6،6٪ ،;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة السابعة في 9 يوليو 2017: 949،004 BTC مرتبط, تم توزيع
+ 11.0٪.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الثامنة في 7 أغسطس 2017: 1،395،899 BTC مرتبط, تم توزيع
+ 16.0٪.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة التاسعة في 6 سبتمبر 2017: 1،306،573 BTC مرتبط ، وتم توزيع 5.7٪.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة العاشرة في 4 تشرين الثاني 2017: 1،093،155 BTC مرتبط, تم توزيع
+ 6.1٪.</p>
 				</div>
 			</div>
 
@@ -729,20 +730,20 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title"> تقنية جديدة جذريًا </h1>
+<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;"> قابلية تطوير غير محدودة ، تأكيدات فائقة السرعة ، عدم وجود معدنين ، عدم وجود كتل ، مع رسوم منخفضة. </h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						يتم تخزين بيانات Byteball و ترتيبها باستخدام <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">رسم حَلَقِي مُوَجّه</a> (DAG) بدلاً من سلسلة الكتل. يسمح هذا لجميع المستخدمين بتأمين بيانات بعضهم البعض عن طريق الرجوع إلى وحدات البيانات السابقة التي تم إنشاؤها من قبل مستخدمين آخرين ، وكذلك إزالة حدود قابلية التوسع الشائعة في سلسلة الكتل، مثل مشكلة حجم الكتل.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+التصميم بدون كتل يعد بسيط بسبب عدم وجود الكتل ، هناك فقط معاملات. يضيف المستخدمون معاملاتهم إلى نهاية DAG بأنفسهم ، ولا يضطرون للانتظار عندما ينشئ المعدنون كتلة جديدة وليس هناك أي تخمين في ما إذا كان المعدنون سيُدرِجون معاملتك في الكتلة.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. يتم تحقيق ذلك عن طريق اختيار سلسلة, تسمى السلسلة الرئيسية ، والتي تنجذب إلى وحدات صادرة عن مستخدمين ذو سمعة يعرفون &mdash; بالشهود.
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank"> الرجاء الإطلاع على الورقة البيضاء (whitepaper) للحصول على التفاصيل.</a>
 					</p>
 				</div>
 			</div>
@@ -756,7 +757,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">قم بتنزيل محفظة Byteball الخاصة بك</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -764,7 +765,7 @@
 
 					<ul class="footer-menu-list app-icons h-list footer-social-new-ul m-b-50">
 						<li class="list-item">
-							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8" target="_blank">
+							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&amp;mt=8" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
 								iOS
 							</a>
@@ -772,25 +773,25 @@
 						<li class="list-item">
 							<a href="https://play.google.com/store/apps/details?id=org.byteball.wallet" target="_blank">
 								<img src="static/images/app/android_robot.svg">
-								Android
+								أندرويد
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.3.0/Byteball-win64.exe" target="_blank">
 								<img src="static/images/app/icon-microsoft.svg">
-								Windows
+								ويندوز
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.3.0/Byteball-osx64.dmg" target="_blank">
 								<img src="static/images/app/icon-mac-os-x.svg">
-								Mac
+								ماكنتوش
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.3.0/byteball-linux64.zip" target="_blank">
 								<img src="static/images/app/linux.png">
-								Linux
+								لينكس / Linux
 							</a>
 						</li>
 						<li class="list-item">
@@ -813,10 +814,10 @@
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
 
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title"> Testnet</h1>
 
-					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
+<a href="testnet.html" target="_blank"> محفظة Testnet</a> متاحة أيضا إذا كنت مطور أو ترغب في تجربة ميزات Byteball دون إنفاق فلس واحد.
 					</h4>
 				</div>
 			</div>
@@ -828,7 +829,7 @@
 	<section class="section section-team p-b-40" id="team">
 		<div class="container">
 			<hr class="new-breaker-line">
-			<h3 class="section-heading section-heading--center m-b-45">Meet The Team</h3>
+			<h3 class="section-heading section-heading--center m-b-45">تعرف على فريقنا</h3>
 			<ul class="row list-reset">
 				<li class="col-lg-12 col-md-12 col-sm-12" style="margin: auto">
 					<div class="col-lg-3 col-md-6 col-sm-6 section-heading--center" style="margin: auto;">
@@ -849,7 +850,7 @@
 								<h5 class="box-title noto-sans-symbols-bold">
 									Tony Churyumoff
 								</h5>
-								<p class="box-author-job source-sans-pro-regular">Founder and Lead Developer</p>
+								<p class="box-author-job source-sans-pro-regular">المؤسس والمطور الرئيسي</p>
 							</div>
 						</div>
 					</div>
@@ -870,7 +871,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Mikhail Pustovalov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">المطور</p>
 						</div>
 					</div>
 				</li>
@@ -889,7 +890,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Evgeniy Stulnikov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">المطور</p>
 						</div>
 					</div>
 				</li>
@@ -908,7 +909,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Artem Nagorny
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">المطور</p>
 						</div>
 					</div>
 				</li>
@@ -928,7 +929,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Steve Safronoff
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">شريك ورئيس تطوير الأعمال</p>
 						</div>
 					</div>
 				</li>
@@ -947,7 +948,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Marketing and Strategy Development</p>
+							<p class="box-author-job source-sans-pro-regular">مدير الإستراتيجيات</p>
 						</div>
 					</div>
 				</li>
@@ -966,7 +967,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Elena Tairova
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">رئيس العلاقات العامة والاتصالات</p>
 						</div>
 					</div>
 				</li>
@@ -985,7 +986,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">رئيس المحتوى الرقمي</p>
 						</div>
 					</div>
 				</li>
@@ -1005,7 +1006,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">مدير الأحداث والشراكات</p>
 						</div>
 					</div>
 				</li>
@@ -1024,7 +1025,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Milan Horvath
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Community Manager</p>
+							<p class="box-author-job source-sans-pro-regular">مدير المجتمع</p>
 						</div>
 					</div>
 				</li>
@@ -1043,7 +1044,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">ممثل منطقة الصين</p>
 						</div>
 					</div>
 				</li>
@@ -1062,7 +1063,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">المسؤول عن اكتساب المستخدمين</p>
 						</div>
 					</div>
 				</li>
@@ -1081,7 +1082,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">مساهم</p>
 						</div>
 					</div>
 				</li>
@@ -1101,7 +1102,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">مساهم</p>
 						</div>
 					</div>
 				</li>
@@ -1120,7 +1121,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">مساهم</p>
 						</div>
 					</div>
 				</li>
@@ -1135,7 +1136,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Community and Support</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">المجتمع والدعم</h1>
 					<div class="section-heading--center m-t-0 m-b-40">
 						<ul class="footer-menu-list h-list footer-social-new-ul">
 							<li class="list-item community-item">
@@ -1189,31 +1190,31 @@
 					</div>
 
 					<div class="com-sup-block slack_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">مجتمعنا الأكثر نشاطا موجود في Slack، لذا يرجى الانضمام إلينا هناك.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">نقوم بنشر الأخبار في منصة التدوين Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">موضوع طويل ونشط في Bitcointalk مع ما يقارب 1000 مشاركة.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا علي Telegram تحظى بشعبية كبيرة أيضا.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">يمكن العثور على مجتمعنا الصيني على WeChat.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">لدينا أيضا sub-reddit نشط.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Twitter.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">ونحن بطبيعة الحال على Twitter.</h2>
 					</div>
 					<div class="com-sup-block facebook_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Facebook too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">وبالطبع نحن على Facebook أيضا.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Youtube Channel</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا على Youtube</h2>
 					</div>
 
 				</div>
@@ -1227,7 +1228,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Learn more</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">التعرف على المزيد</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
@@ -1254,32 +1255,31 @@
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">مدخل إلى Byteball</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">المقالات الأربعة أدناه هي بداية جيدة لاكتشاف Byteball. تستخدم هذه المقالات المواد المرئية والصوتية وهي مكتوبة بلغة واضحة. إذا كنت جديدًا في Byteball ، فنقترح عليك البدء هنا.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-								<span class="btn-text">PART ONE</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-								<span class="btn-text">PART TWO</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-								<span class="btn-text">PART THREE</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-								<span class="btn-text">PART FOUR</span>
-							</a>
+<span class="btn-text">الجزء الأول</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
+<span class="btn-text">الجزء الثاني</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank"><span class="btn-text">الجزء الثالث</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
+<span class="btn-text">الجزء الرابع</span>
+</a>
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! It was written by Tony Churyumoff, the Byteball founder, and is the single most comprehensive resource on Byteball that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">الورقة البيضاء (whitepaper) الخاصة ب Byteball مفصلة للغاية إذ يوجد فيها الكثير من التفاصيل التقنية. إذا لم تكن مطورًا أو لست على دراية بالتقنية ، فقد تجد صعوبة في فهمها. إذا كان الأمر كذلك ، فإننا نقترح المقالات الأربعة التمهيدية أعلاه. مع ذلك ، إذا كانت لديك معرفة تقنية ، فنحن نشجعك على قراءة الورقة البيضاء! هي مكتوبة من قبل Tony Churyumoff ، مؤسس Byteball، هو المَوْرِد الوحيد الأكثر إدراكاً ومعرفة بمشروع Byteball.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the Byteball platform. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">يحتوي الويكي أيضًا على موارد ممتازة مع مجموعة واسعة من المقالات حول ميزات Byteball. ومع ذلك ، هناك الكثير من المعلومات وقد تشعر بالضياع قليلاً! إذا كنت جديدًا تمامًا على Byteball ، نقترح المقالات الأربعة المدرجة أدناه. إذا كنت قرأت المقالات الأربعة وترغب في معرفة المزيد (الشيء اللذي ستفعله) ، فقم باستكشاف الويكي wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball في تطور مستمر، ألقي نضرة على التعليمات البرمجية الخاصة بنا على Github.</h3>
 					</div>
 
 				</div>
@@ -1293,13 +1293,12 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Exchanges</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">التبادلات</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
-						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						يمكنك شراء أو بيع وحدات bytes الخاصة بك دون مغادرة محفظتك من خلال <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000"> الدردشة مع بوت التداول </a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
+						<br> <br>لشراء أو بيع blackbytes، راجع أو انشر الطلبات في قناة <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank"> #trading_blackbyte </a> على موقعنا في <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> ،ثم قم بالتبادل عن طريق تقنية النضير إلى النضير باستخدام <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> دفعات (مشروطة) مقيدة </a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1376,64 +1375,63 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
-			</a>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">معدات وسائل الإعلام</h3>
+</a>
 
-			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
-				<li class="list-item">
-					<a href="https://slack.byteball.org/" target="_blank">
-						<img src="static/images/slack_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
-						<img src="static/images/we_chat_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://t.me/byteball" target="_blank">
-						<img src="static/images/telegram_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://www.reddit.com/r/ByteBall/" target="_blank">
-						<img src="static/images/reddit_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank">
-						<img src="static/images/bitcoin_talk_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://twitter.com/ByteballOrg" target="_blank">
-						<img src="static/images/twitter_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://www.facebook.com/byteball.org" target="_blank">
-						<img src="static/images/facebook_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
-						<img src="static/images/youtube_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://github.com/byteball" target="_blank">
-						<img src="static/images/github_footer_img.png">
-					</a>
-				</li>
-			</ul>
+<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
+<li class="list-item">
+<a href="https://slack.byteball.org/" target="_blank">
+<img src="static/images/slack_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
+<img src="static/images/we_chat_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://t.me/byteball" target="_blank">
+<img src="static/images/telegram_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://www.reddit.com/r/ByteBall/" target="_blank">
+<img src="static/images/reddit_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank">
+<img src="static/images/bitcoin_talk_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://twitter.com/ByteballOrg" target="_blank">
+<img src="static/images/twitter_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://www.facebook.com/byteball.org" target="_blank">
+<img src="static/images/facebook_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
+<img src="static/images/youtube_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://github.com/byteball" target="_blank">
+<img src="static/images/github_footer_img.png">
+</a>
+</li>
+</ul>
 
-			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
-				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
-				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
-				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
-			</h3>
+<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
+<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script> &nbsp;
+<a style="color: black" href="terms.html">الشروط</a>
+&nbsp;
+<a style="color: black" href="privacy.html">الخصوصية</a>
+</h3>
 		</div>
 	</footer>
 	<!-- Footer end-->
@@ -1448,12 +1446,12 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title"> تم الانتهاء من المسح </h4>
+<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>سيعالج Jumio صورك ، وعادة ما يستغرق ذلك بضع دقائق ، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
+					<p>سوف يعلمك البوت المسؤول عن المصادقة بمجرد معرفة النتيجة.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
@@ -1515,6 +1513,14 @@
 				$("#learn_more .learn-more-block."+ $(this).data("img")).show();
 			});
 
+			$("a").on('click', function(){
+				var href = $(this).attr('href');
+				var text = $(this).text().trim();
+				var is_download_link = $(this).parent().parent().hasClass("app-icons");
+				var goal = (is_download_link && href !== 'https://github.com/byteball/byteball') ? 1 : 0;
+				console.log('click', href, text, goal);
+				ga('send', 'event', 'click', href, text, goal);
+			});
 		})
 	</script>
 
@@ -1578,12 +1584,8 @@
 					// in which case the redirect dialog will wait for the currently shown dialog to be dismissed.
 					
 					gotStoreURI && timers.push(window.setTimeout(function() {
-						if (!isIOS()) {
-							storeLaunched = true;
-							window.top.location = storeURI;
-						} else {
-							document.getElementById('warning').style.display = 'block';
-						}
+						storeLaunched = true;
+						window.top.location = storeURI;
 					}, 1000));
 					isIOS() && timers.push(window.setTimeout(function() {
 						storeLaunched && window.location.reload()
@@ -1596,7 +1598,7 @@
 				getStoreURI: function() {
 					return isAndroid() ?
 						"market://details?id=org.byteball.wallet&referrer=" + textcoin :
-						"https://github.com/byteball/byteball/releases";
+						"https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&mt=8";
 				},
 				// Try to launch the native app on iOS/Android. Redirect to the app store if launch fails.
 				init: function() {
