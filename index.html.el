@@ -27,7 +27,7 @@
 	<link href="static/vendor/lightbox2/css/lightbox.min.css" rel="stylesheet" media="all">
 
 	<!-- Main CSS-->
-	<link href="static/css/theme.css?v2" rel="stylesheet" media="all">
+	<link href="static/css/theme.css?v4" rel="stylesheet" media="all">
 
 	<!--Favicons-->
 	<link rel="shortcut icon" href="static/favicon.ico">
@@ -90,7 +90,7 @@
 					<ul class="navbar-nav">
 						<li class="language-nav-item">
 							<div class="btn-group">
-								<button type="button" class="btn btn-default btn-sm" data-toggle="dropdown" aria-expanded="false" style="cursor: pointer; width: 32px; margin-right: 7px;">
+								<button type="button" class="btn btn-default btn-sm" data-toggle="dropdown" aria-expanded="false">
 									<img id="imgBtnSel" src="static/images/flags/united-states.png" alt="..." class="img-thumbnail icon-medium" style="border: none">   
 									<span id="lanBtnSel"></span>
 								</button>
@@ -98,23 +98,7 @@
 									<span class="caret"></span>
 								</button>
 
-								<ul class="dropdown-menu language-block" role="menu">
-									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Δανικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Γερμανικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.el" class="language"><img src="static/images/flags/greece.png" alt="Ελληνικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Ισπανικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Εσθονικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Γαλλικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Ινδονησιακά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Ιταλικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Ιαπωνικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Κορεάτικα" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Ολλανδικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Πολωνικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Ρωσσικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"><img src="static/images/flags/china.png" alt="Κινέζικα" class="img-thumbnail icon-medium"></a></li>
-								</ul>
+								<ul class="dropdown-menu language-block" role="menu"></ul>
 							</div>
 						</li>
 						<li class="nav-item">
@@ -697,7 +681,8 @@
 						<br>-  Επιδοτήσεις που αντισταθμίζουν μέρος των προμηθειών όταν <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">αγοράζετε Bytes με Visa ή Mastercard</a>.
 						<br>-  Ανταμοιβές για όσους δωρίζουν τους υπολογιστικούς τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Δωρεές μοιράζονται π.χ. μέσω των καναλιών YouTube των υποστηρικτών μας. Δείτε π.χ. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. Δείτε τα <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">αποτελέσματα από προηγούμενες καμπάνιες</a>.                    </p>
+						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. Δείτε τα <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">αποτελέσματα από προηγούμενες καμπάνιες</a>.
+						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Ανταμοιβές σε Steem και ανταμοιβές από παραπομπές νέων χρηστών</a> σε όσους επαληθεύσουν το λογαριασμό Steem τους.</p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
@@ -764,37 +749,43 @@
 						<li class="list-item">
 							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&amp;mt=8" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
-								iOS
+								iOS<br />App Store
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://play.google.com/store/apps/details?id=org.byteball.wallet" target="_blank">
 								<img src="static/images/app/android_robot.svg">
-								Android
+								Android<br />Play Store
 							</a>
 						</li>
 						<li class="list-item">
-							<a href="https://github.com/byteball/byteball/releases/download/v2.3.0/Byteball-win64.exe" target="_blank">
+							<a href="/downloads/Byteball-win64.exe">
 								<img src="static/images/app/icon-microsoft.svg">
-								Windows
+								Windows<br />64bit
 							</a>
 						</li>
 						<li class="list-item">
-							<a href="https://github.com/byteball/byteball/releases/download/v2.3.0/Byteball-osx64.dmg" target="_blank">
+							<a href="/downloads/Byteball-win32.exe">
+								<img src="static/images/app/icon-microsoft.svg">
+								Windows<br />32bit
+							</a>
+						</li>
+						<li class="list-item">
+							<a href="/downloads/Byteball-osx64.dmg">
 								<img src="static/images/app/icon-mac-os-x.svg">
-								Mac
+								Mac<br />64bit
 							</a>
 						</li>
 						<li class="list-item">
-							<a href="https://github.com/byteball/byteball/releases/download/v2.3.0/byteball-linux64.zip" target="_blank">
+							<a href="/downloads/Byteball-linux64.zip">
 								<img src="static/images/app/linux.png">
-								Linux
+								Linux<br />64bit
 							</a>
 						</li>
 						<li class="list-item">
-							<a href="https://github.com/byteball/byteball" target="_blank">
+							<a href="https://github.com/byteball/byteball/releases" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub
+								Εκδόσεις<br />GitHub
 							</a>
 						</li>
 					</ul>
@@ -1465,8 +1456,8 @@
 	<!-- Jquery JS-->
 	<script src="static/js/jquery-2.1.1.min.js"></script>
 	<!-- Bootstrap JS-->
-	<script src="static/vendor/popper.js/popper.min.js"></script>
-	<script src="static/vendor/bootstrap/bootstrap.min.js"></script>
+	<script src="static/js/bootstrap.bundle.min.js"></script>
+
 	<!-- Vendor JS-->
 	<script src="static/vendor/slick/slick.min.js"></script>
 	<script src="static/vendor/animsition/animsition.min.js"></script>
@@ -1476,7 +1467,7 @@
 	<script src="static/vendor/lightbox2/js/lightbox.min.js"></script>
 
 	<!-- Main JS-->
-	<script src="static/js/global.js"></script>
+	<script src="static/js/global.js?v3"></script>
 
 	<!-- Special Vendor-->
 	<script src="static/vendor/validator/validator.min.js"></script>
